@@ -1,2 +1,2 @@
 # Spring-Core-Framework
-Spring Core Framework is explained with examples.
+Spring Core Framework is explanation with examples.
